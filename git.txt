@@ -1,2 +1,4 @@
 hola 
  git up 
+
+git cheout master cambio de rama 
