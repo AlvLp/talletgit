@@ -1,4 +1,5 @@
 hola 
  git up 
 
-git cheout master cambio de rama 
+	git merge te fusiona las ramas 
+
